@@ -1,6 +1,7 @@
 # FUNCTIONS
 ## I love recycling.
 -------------------------------------
+![meme](../images/mamaamolo1.jpg)
 
 ## Table of Contents.
 - [Introduction](#introduction)
