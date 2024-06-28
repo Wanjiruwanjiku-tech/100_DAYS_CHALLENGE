@@ -5,7 +5,7 @@
 ## Table of Contents.
 - [Introduction](#introduction)
 - [Components](#components-of-a-function)
-- [Lambda](#lambda)
+- [Lambda Functions](#lambda-functions)
 
 ## Introduction
 - Functions are blocks of reusable code designed to perform a single action.
